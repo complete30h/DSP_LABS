@@ -1,0 +1,11 @@
+D:\папка\DSP_LABS\DSP_3\DSP_3\bin\Debug\DSP_3.exe.config
+D:\папка\DSP_LABS\DSP_3\DSP_3\bin\Debug\DSP_3.exe
+D:\папка\DSP_LABS\DSP_3\DSP_3\bin\Debug\DSP_3.pdb
+D:\папка\DSP_LABS\DSP_3\DSP_3\obj\x86\Debug\DSP_3.csproj.AssemblyReference.cache
+D:\папка\DSP_LABS\DSP_3\DSP_3\obj\x86\Debug\DSP_3.csproj.SuggestedBindingRedirects.cache
+D:\папка\DSP_LABS\DSP_3\DSP_3\obj\x86\Debug\DSP_3.MainForm.resources
+D:\папка\DSP_LABS\DSP_3\DSP_3\obj\x86\Debug\DSP_3.Properties.Resources.resources
+D:\папка\DSP_LABS\DSP_3\DSP_3\obj\x86\Debug\DSP_3.csproj.GenerateResource.cache
+D:\папка\DSP_LABS\DSP_3\DSP_3\obj\x86\Debug\DSP_3.csproj.CoreCompileInputs.cache
+D:\папка\DSP_LABS\DSP_3\DSP_3\obj\x86\Debug\DSP_3.exe
+D:\папка\DSP_LABS\DSP_3\DSP_3\obj\x86\Debug\DSP_3.pdb

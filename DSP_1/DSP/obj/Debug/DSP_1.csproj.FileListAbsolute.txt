@@ -1,0 +1,43 @@
+C:\Users\DimaRich\Documents\C# Projects\DSP\DSP\bin\Debug\DSP.exe.config
+C:\Users\DimaRich\Documents\C# Projects\DSP\DSP\bin\Debug\DSP.exe
+C:\Users\DimaRich\Documents\C# Projects\DSP\DSP\bin\Debug\DSP.pdb
+C:\Users\DimaRich\Documents\C# Projects\DSP\DSP\obj\Debug\DSP_1.csprojAssemblyReference.cache
+C:\Users\DimaRich\Documents\C# Projects\DSP\DSP\obj\Debug\DSP.DSP_1_Form.resources
+C:\Users\DimaRich\Documents\C# Projects\DSP\DSP\obj\Debug\DSP.Properties.Resources.resources
+C:\Users\DimaRich\Documents\C# Projects\DSP\DSP\obj\Debug\DSP_1.csproj.GenerateResource.cache
+C:\Users\DimaRich\Documents\C# Projects\DSP\DSP\obj\Debug\DSP_1.csproj.CoreCompileInputs.cache
+C:\Users\DimaRich\Documents\C# Projects\DSP\DSP\obj\Debug\DSP.exe
+C:\Users\DimaRich\Documents\C# Projects\DSP\DSP\obj\Debug\DSP.pdb
+d:\_MK_\DSP\DSP\DSP\bin\Debug\DSP.exe.config
+d:\_MK_\DSP\DSP\DSP\bin\Debug\DSP.exe
+d:\_MK_\DSP\DSP\DSP\bin\Debug\DSP.pdb
+d:\_MK_\DSP\DSP\DSP\obj\Debug\DSP_1.csproj.AssemblyReference.cache
+d:\_MK_\DSP\DSP\DSP\obj\Debug\DSP.DSP_1_Form.resources
+d:\_MK_\DSP\DSP\DSP\obj\Debug\DSP.Properties.Resources.resources
+d:\_MK_\DSP\DSP\DSP\obj\Debug\DSP_1.csproj.GenerateResource.cache
+d:\_MK_\DSP\DSP\DSP\obj\Debug\DSP_1.csproj.CoreCompileInputs.cache
+d:\_MK_\DSP\DSP\DSP\obj\Debug\DSP.exe
+d:\_MK_\DSP\DSP\DSP\obj\Debug\DSP.pdb
+D:\_MK_\DSP\DSP\DSP\obj\Debug\DSP_1.csproj.SuggestedBindingRedirects.cache
+D:\COS\DSP_labs\DSP\DSP\bin\Debug\DSP.exe.config
+D:\COS\DSP_labs\DSP\DSP\bin\Debug\DSP.exe
+D:\COS\DSP_labs\DSP\DSP\bin\Debug\DSP.pdb
+D:\COS\DSP_labs\DSP\DSP\obj\Debug\DSP_1.csproj.AssemblyReference.cache
+D:\COS\DSP_labs\DSP\DSP\obj\Debug\DSP_1.csproj.SuggestedBindingRedirects.cache
+D:\COS\DSP_labs\DSP\DSP\obj\Debug\DSP.DSP_1_Form.resources
+D:\COS\DSP_labs\DSP\DSP\obj\Debug\DSP.Properties.Resources.resources
+D:\COS\DSP_labs\DSP\DSP\obj\Debug\DSP_1.csproj.GenerateResource.cache
+D:\COS\DSP_labs\DSP\DSP\obj\Debug\DSP_1.csproj.CoreCompileInputs.cache
+D:\COS\DSP_labs\DSP\DSP\obj\Debug\DSP.exe
+D:\COS\DSP_labs\DSP\DSP\obj\Debug\DSP.pdb
+D:\папка\DSP_LABS\DSP_1\DSP\bin\Debug\DSP.exe.config
+D:\папка\DSP_LABS\DSP_1\DSP\bin\Debug\DSP.exe
+D:\папка\DSP_LABS\DSP_1\DSP\bin\Debug\DSP.pdb
+D:\папка\DSP_LABS\DSP_1\DSP\obj\Debug\DSP_1.csproj.AssemblyReference.cache
+D:\папка\DSP_LABS\DSP_1\DSP\obj\Debug\DSP_1.csproj.SuggestedBindingRedirects.cache
+D:\папка\DSP_LABS\DSP_1\DSP\obj\Debug\DSP.DSP_1_Form.resources
+D:\папка\DSP_LABS\DSP_1\DSP\obj\Debug\DSP.Properties.Resources.resources
+D:\папка\DSP_LABS\DSP_1\DSP\obj\Debug\DSP_1.csproj.GenerateResource.cache
+D:\папка\DSP_LABS\DSP_1\DSP\obj\Debug\DSP_1.csproj.CoreCompileInputs.cache
+D:\папка\DSP_LABS\DSP_1\DSP\obj\Debug\DSP.exe
+D:\папка\DSP_LABS\DSP_1\DSP\obj\Debug\DSP.pdb
